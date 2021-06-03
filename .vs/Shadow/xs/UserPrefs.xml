@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2988FA40-2309-4BFC-2BD2-DBDEA40E7DA7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/DepthTexture.shader">
+    <Files>
+      <File FileName="Assets/Scripts/DepthTextureCamera.cs" Line="6" Column="12" />
+      <File FileName="Assets/Shaders/NormalShadowMap.shader" Line="44" Column="21" />
+      <File FileName="Assets/Shaders/CustomShaderMap.shader" Line="32" Column="16" NotebookId="1" />
+      <File FileName="Assets/Shaders/DepthTexture.shader" Line="10" Column="24" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shadow" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Shaders" expanded="True">
+                <Node name="DepthTexture.shader" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d0651b3-93cb-42de-afa6-b9ab9dfeff63" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
